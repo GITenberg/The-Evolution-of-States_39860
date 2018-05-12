@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31403
     wikipedia: http://en.wikipedia.org/wiki/John_M._Robertson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39860#The-Evolution-of-States
 gutenberg_issued: '2012-05-30'
 gutenberg_type: Text
 identifiers:
