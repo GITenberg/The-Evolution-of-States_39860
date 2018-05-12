@@ -1,0 +1,31 @@
+_repo: The-Evolution-of-States_39860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robertson, J. M. (John Mackinnon)
+    alias: Robertson, John Mackinnon
+    birthdate: 1856
+    deathdate: 1933
+    gutenberg_agent_id: '31403'
+    url: http://www.gutenberg.org/2009/agents/31403
+    wikipedia: http://en.wikipedia.org/wiki/John_M._Robertson
+description: ''
+gutenberg_issued: '2012-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39860'
+  lccn: '13001517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JC'
+- !lcsh 'Europe -- Politics and government'
+- !lcsh 'Political science -- History'
+- !lcsh 'Great Britain -- Politics and government'
+title: The Evolution of States
+url: http://www.gutenberg.org/ebooks/39860
